@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hiii
+<p>Pronombres/Pronouns: ella/-a - she/they</p>
+<p>
+  Me llamo Celeste y estudio Ingeniería en Informatica en la UBA.
+</p>
 <!--
 **cgomez21/cgomez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
